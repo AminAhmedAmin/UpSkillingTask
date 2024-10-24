@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpSkillingTask", "UpSkillingTask\UpSkillingTask.csproj", "{145E4266-61EF-492A-8256-89C8AA0EB16B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{145E4266-61EF-492A-8256-89C8AA0EB16B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{145E4266-61EF-492A-8256-89C8AA0EB16B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{145E4266-61EF-492A-8256-89C8AA0EB16B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{145E4266-61EF-492A-8256-89C8AA0EB16B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {878A092D-146E-469C-8A72-84355A36893B}
+	EndGlobalSection
+EndGlobal
